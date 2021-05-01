@@ -14,3 +14,5 @@
   - Offline support
   - Dark Mode
  
+# UI picture
+![Simulator Screen Shot - iPhone 8 - 2021-05-01 at 20 19 03](https://user-images.githubusercontent.com/33418324/116786074-88299e80-aaba-11eb-89d5-e2df34e9da92.png)
